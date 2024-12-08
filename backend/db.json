@@ -54,10 +54,9 @@
     },
     {
       "id": "5c8f",
-      "favoritos": false,
       "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
       "autoria": "Mestre Yoda",
-      "data": "2024-11-26T00:14:40.295Z"
+      "data": "2024-11-25"
     },
     {
       "id": "2d6e",
@@ -86,6 +85,12 @@
       "conteudo": "Na minha máquina funciona!",
       "autoria": "Dev",
       "data": "2024-11-22T00:14:40.295Z"
+    },
+    {
+      "id": "fa88",
+      "conteudo": "aa",
+      "autoria": "aaaa",
+      "data": "2024-12-04T00:00:00.000Z"
     }
   ]
 }
